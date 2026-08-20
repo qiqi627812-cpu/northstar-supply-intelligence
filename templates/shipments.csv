@@ -1,0 +1,1 @@
+shipment_id,ship_date,region,product_family,lane_id,origin,destination,mode,carrier,promise_date,actual_arrival_date,projected_arrival_date,freight_cost,shipment_count,delay_cause,status

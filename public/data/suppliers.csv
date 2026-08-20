@@ -1,0 +1,13 @@
+receipt_id,receipt_date,region,product_family,supplier_id,supplier_name,country,promised_date,ordered_qty,received_qty,rejected_qty,standard_unit_price,actual_unit_price,annual_spend,risk_score
+RC-20001,2026-03-12,Asia Pacific,Consumer,SUP-00418,Apex Components,Malaysia,2026-03-10,2400,2320,7,18.40,18.92,4800000,91
+RC-20002,2026-03-28,Europe,Industrial,SUP-00871,NordWerk GmbH,Germany,2026-03-29,1600,1600,0,42.10,42.05,3600000,24
+RC-20003,2026-04-15,Asia Pacific,Healthcare,SUP-00192,Kanto Precision,Japan,2026-04-15,1300,1300,1,56.20,56.60,5200000,52
+RC-20004,2026-04-30,Latin America,Industrial,SUP-00604,Monterrey Metals,Mexico,2026-04-27,2100,2050,3,31.80,32.45,2900000,76
+RC-20005,2026-05-18,North America,Consumer,SUP-00337,Great Lakes Electronics,USA,2026-05-18,1800,1800,0,22.10,22.20,3100000,35
+RC-20006,2026-06-08,Asia Pacific,Consumer,SUP-00418,Apex Components,Malaysia,2026-06-05,2600,2510,5,18.40,18.96,4800000,91
+RC-20007,2026-06-25,Europe,Industrial,SUP-00871,NordWerk GmbH,Germany,2026-06-26,1700,1700,1,42.10,42.08,3600000,24
+RC-20008,2026-07-10,Asia Pacific,Healthcare,SUP-00192,Kanto Precision,Japan,2026-07-10,1450,1450,0,56.20,56.48,5200000,52
+RC-20009,2026-07-29,Latin America,Industrial,SUP-00604,Monterrey Metals,Mexico,2026-07-26,2200,2180,2,31.80,32.20,2900000,76
+RC-20010,2026-08-05,North America,Consumer,SUP-00337,Great Lakes Electronics,USA,2026-08-05,1900,1900,0,22.10,22.04,3100000,35
+RC-20011,2026-08-14,Asia Pacific,Consumer,SUP-00418,Apex Components,Malaysia,2026-08-11,2500,2410,6,18.40,19.02,4800000,91
+RC-20012,2026-08-18,Europe,Industrial,SUP-00871,NordWerk GmbH,Germany,2026-08-18,1800,1800,0,42.10,42.12,3600000,24

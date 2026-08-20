@@ -1,0 +1,9 @@
+snapshot_date,region,product_family,sku,item_name,warehouse,inventory_class,on_hand_qty,unit_cost,avg_daily_demand,safety_stock_qty,max_stock_qty,annual_cogs
+2026-08-20,North America,Consumer,SKU-10922,Smart controller X2,Dallas DC,A / X,180,285,38,220,520,426000
+2026-08-20,Europe,Industrial,SKU-31804,Power module 800,Rotterdam DC,A / Y,1180,395,10,180,820,1680000
+2026-08-20,Asia Pacific,Healthcare,SKU-07211,Valve assembly C,Singapore DC,B / Z,72,710,8,90,280,298000
+2026-08-20,North America,Healthcare,SKU-44107,Sensor pack Pro,Chicago DC,A / X,630,230,15,210,760,1190000
+2026-08-20,Latin America,Consumer,SKU-55208,Home control hub,Sao Paulo DC,B / Y,0,165,12,95,360,410000
+2026-08-20,Europe,Healthcare,SKU-66411,Diagnostic sensor kit,Rotterdam DC,A / Z,420,540,5,120,330,980000
+2026-08-20,Asia Pacific,Industrial,SKU-77509,Industrial gateway,Singapore DC,A / X,155,860,18,180,410,1450000
+2026-08-20,Latin America,Industrial,SKU-88014,Drive control module,Monterrey DC,B / Y,260,475,9,110,390,760000

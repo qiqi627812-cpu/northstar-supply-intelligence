@@ -1,0 +1,24 @@
+{
+  "company": "Northstar",
+  "dashboardName": "Supply Intelligence",
+  "currency": "USD",
+  "updatedAt": "2026-08-20T08:30:00Z",
+  "targets": {
+    "por": 95,
+    "inventory": 0.45,
+    "otd": 93,
+    "risk": 2,
+    "turns": 8,
+    "excess": 0.08,
+    "stockout": 2,
+    "doh": 45,
+    "otif": 95,
+    "ppm": 650,
+    "supplier-risk": 1,
+    "ppv": 0.5,
+    "freight": 0.12,
+    "ota": 92,
+    "cps": 270,
+    "delayed": 2
+  }
+}

@@ -12,7 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const host = requestHeaders.get("x-forwarded-host") ?? requestHeaders.get("host") ?? "localhost:3000";
   const base = new URL(`${protocol}://${host}`);
   const title = "Northstar — Supply Chain Intelligence";
-  const description = "A portfolio-ready supply chain control tower and business intelligence dashboard.";
+  const description = "A reusable supply chain BI dashboard template powered by five replaceable CSV files.";
 
   return {
     metadataBase: base,

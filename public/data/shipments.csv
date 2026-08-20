@@ -1,0 +1,13 @@
+shipment_id,ship_date,region,product_family,lane_id,origin,destination,mode,carrier,promise_date,actual_arrival_date,projected_arrival_date,freight_cost,shipment_count,delay_cause,status
+SHP-30001,2026-03-02,North America,Consumer,LANE-014,Shanghai,Los Angeles,Ocean,BlueWave,2026-03-22,2026-03-24,,68200,186,Port dwell,Delayed
+SHP-30002,2026-03-14,North America,Industrial,LANE-022,Frankfurt,Chicago,Air,SkyBridge,2026-03-17,2026-03-17,,48900,92,,Delivered
+SHP-30003,2026-04-06,North America,Industrial,LANE-038,Monterrey,Dallas,Road,Continental,2026-04-09,2026-04-10,,57600,42,Carrier capacity,Delayed
+SHP-30004,2026-04-19,Europe,Healthcare,LANE-047,Singapore,Rotterdam,Ocean,BlueWave,2026-05-10,2026-05-14,,74400,104,Customs,Delayed
+SHP-30005,2026-05-04,Europe,Industrial,LANE-022,Frankfurt,Chicago,Air,SkyBridge,2026-05-07,2026-05-07,,51200,96,,Delivered
+SHP-30006,2026-05-21,North America,Consumer,LANE-014,Shanghai,Los Angeles,Ocean,BlueWave,2026-06-11,2026-06-12,,70100,190,Port dwell,Delayed
+SHP-30007,2026-06-10,North America,Industrial,LANE-038,Monterrey,Dallas,Road,Continental,2026-06-13,2026-06-13,,59800,44,,Delivered
+SHP-30008,2026-06-25,Europe,Healthcare,LANE-047,Singapore,Rotterdam,Ocean,BlueWave,2026-07-16,2026-07-19,,76800,108,Weather,Delayed
+SHP-30009,2026-07-07,North America,Industrial,LANE-022,Frankfurt,Chicago,Air,SkyBridge,2026-07-10,2026-07-09,,53500,98,,Delivered
+SHP-30010,2026-07-22,North America,Consumer,LANE-014,Shanghai,Los Angeles,Ocean,BlueWave,2026-08-12,,2026-08-15,71600,194,Port dwell,At risk
+SHP-30011,2026-08-02,North America,Industrial,LANE-038,Monterrey,Dallas,Road,Continental,2026-08-05,2026-08-05,,61200,45,,Delivered
+SHP-30012,2026-08-09,Europe,Healthcare,LANE-047,Singapore,Rotterdam,Ocean,BlueWave,2026-08-30,,2026-09-03,78100,110,Customs,At risk

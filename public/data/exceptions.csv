@@ -1,0 +1,5 @@
+exception_id,region,product_family,issue,severity,impact,owner,due,root_cause,affected,recommendation,status
+PO-88421,Asia Pacific,Consumer,Late controller component supply,Critical,$482K revenue,M. Chen,Today 16:00,Supplier line-2 yield loss reduced confirmed output by 38%,12 SKUs / 41 customer orders,Approve alternate component and move 2400 units by priority air,Escalated
+SHP-31084,Europe,Healthcare,Singapore port congestion,High,$318K revenue,J. Patel,Tomorrow 10:00,Berth delay and customs inspection added 4.2 days to ETA,8 containers / 27 orders,Divert two containers through Port Klang and reallocate regional stock,In progress
+SKU-10922,North America,Consumer,Safety-stock breach,High,$196K margin,A. Wilson,Tomorrow 14:00,Demand exceeded forecast by 24% for three consecutive weeks,1 SKU / 3 warehouses,Raise short-term forecast and rebalance 840 units,Open
+SUP-00418,Asia Pacific,Industrial,Incoming quality hold batch 42,Medium,$124K cost,S. Garcia,21 Aug 12:00,Dimension Cpk fell below 1.0 after supplier tool change,6200 units / 2 plants,Release conforming lots after 100% sort and launch supplier 8D,In progress
